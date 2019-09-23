@@ -26,6 +26,7 @@ end
 end
 
 def find_a(array)
-  array.finds |a|
+  array.finds do |word|
+    
   
 end
