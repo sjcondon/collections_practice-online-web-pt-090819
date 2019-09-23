@@ -27,6 +27,6 @@ end
 
 def find_a(array)
   array.finds do |word|
-    
-  
+    word[0] === "a"
+  end
 end
