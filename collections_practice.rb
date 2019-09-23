@@ -25,3 +25,6 @@ array.each do |item|
 end
 end
 
+def find_a(array)
+  array_start_with? "a"
+end
