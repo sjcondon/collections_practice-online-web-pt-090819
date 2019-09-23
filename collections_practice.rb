@@ -40,5 +40,6 @@ sum
 end
 
 def add_s(array)
-  array.collect do |n|
+  array.collect do |word|
+    
 
